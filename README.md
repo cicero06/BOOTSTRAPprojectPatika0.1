@@ -1,5 +1,6 @@
-# Bootstrap-1
-Bootstrap Özelliklerini Kullanarak Siteyi Geliştirmek
+# Bootstrap0.1
+BASİC template with using card , jumbotron within three pages for example music store page.
+
 
 
 ![alt text](img/1.png)
